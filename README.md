@@ -1,4 +1,4 @@
-# Welcome to my page
+# Welcome to my Page
 
 ## Table of Contents
 * [Introduction](#introduction)
